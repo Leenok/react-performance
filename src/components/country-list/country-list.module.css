@@ -1,3 +1,10 @@
 .countryList {
   padding: 16px;
 }
+
+.noResults {
+  padding: 24px;
+  text-align: center;
+  color: #6b7280;
+  font-size: 1rem;
+}
